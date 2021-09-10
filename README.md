@@ -4,4 +4,10 @@ My favorite cheese:
 Mozzarella Cheese
 Provolone Cheese
 Cheddar Cheese
-Parmesan Cheese 
+Parmesan Cheese
+
+My favorite Toppings:
+Mushrooms
+Bacon
+Onions
+Ham
